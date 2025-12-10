@@ -1,0 +1,93 @@
+body {
+    display: list-item;
+    background: rgb(223, 223, 112);
+    text-align: center;
+}
+.b1 {
+    border-radius: 7px;
+    background: yellow;
+    font-weight: bold;
+    transition: background 0,3s ease;
+    cursor: pointer;
+}
+.b1:hover {
+    background: green;
+    font-size: 22px;
+    color: white;
+}
+.b2 {
+    border-radius: 7px;
+    background: yellow;
+    font-weight: bold;
+    transition: background 0,3s ease;
+    cursor: pointer;
+}
+.b2:hover {
+    background: green;
+    font-size: 22px;
+    color: white;
+}
+.b3 {
+    border-radius: 7px;
+    background: yellow;
+    font-weight: bold;
+    transition: background 0,3s ease;
+    cursor: pointer;
+}
+.b3:hover {
+    background: green;
+    font-size: 22px;
+    color: white;
+}
+#container1 {
+    background: rgb(196, 135, 94);
+    padding: 1px;
+    margin: auto;
+    border-radius: 8px;
+}
+#container2 {
+    margin: 10px;
+    background: white;
+    padding: 3px;
+    text-align: center;
+    border-radius: 8px;
+}
+#container3 {
+    margin: 10px;
+    background: white;
+    padding: 3px;
+    text-align: center;
+    border-radius: 8px;
+}
+#container4 {
+    margin: 10px;
+    background: white;
+    padding: 3px;
+    text-align: center;
+    border-radius: 8px;
+}
+.footer {
+    background-color: rgb(197, 118, 14);
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+    color: white;
+}
+.titulo1 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+.titulo2 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+.titulo3 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
