@@ -7,3 +7,6 @@ function login2() {
 function login3() {
     window.location.href = "https://converter-imagem-para-png-bing-inno.vercel.app/";
 }
+function login4() {
+    window.location.href = "https://word-para-pdf-big-innovation.vercel.app/";
+}
