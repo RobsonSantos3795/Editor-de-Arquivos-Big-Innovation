@@ -10,3 +10,4 @@ function login3() {
 function login4() {
     window.location.href = "https://word-para-pdf-big-innovation.vercel.app/";
 }
+
