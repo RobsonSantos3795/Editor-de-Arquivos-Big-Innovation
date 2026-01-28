@@ -13,3 +13,7 @@ function login4() {
 function login5() {
     window.location.href = "https://pdf-para-png-big-innovation.vercel.app/";
 }
+function login8() {
+    window.location.href = "";
+}
+
