@@ -64,9 +64,9 @@ body {
    color: white; 
 }
 .b8 {
-    boder-radius: 7px;
+    border-radius: 7px;
     background: yellow;
-    font-wight: bold;
+    font-weight: bold;
     transition: background 0,3s ease;
     cursor: pointer;
 }
@@ -164,4 +164,5 @@ body {
 h1 {
     font-family: 'Times New Roman', Times, serif;
 }
+
 
