@@ -16,5 +16,9 @@ function login5() {
 function login8() {
     window.location.href = "https://conversor-pdf-para-word-big-innovat.vercel.app/";
 }
+function login9() {
+    window.location.href = "https://arquivo-de-imagem-para-pdf-big-inno.vercel.app/";
+}
+
 
 
